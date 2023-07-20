@@ -5,9 +5,9 @@
 
 ##
 
-Aprendendo:
-
-<div style='text-align:center'><br>
+<div align="center" dir="auto"><br> 
+  <p>Aprendendo</p>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
   <img src="https://skillicons.dev/icons?i=js"/>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
@@ -29,8 +29,10 @@ Aprendendo:
 </div>
 
 ##
-Contato
 
-<a href = "mailto:alinebpamplona@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center" dir="auto"><br>
+  <p>Contato</p>
+  
+  <a href = "mailto:alinebpamplona@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alinepamplona" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+</div>
