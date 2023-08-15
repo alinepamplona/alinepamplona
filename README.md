@@ -1,12 +1,11 @@
-- 👋 Olá, sou a Aline!
-- 🧑‍🎓 Sou uma advogada curiosa que foi atraída pela área tech.
-- 💻 Atualmente estou aprendendo a programar através do Bootcamp de Desenvolvimento Web pela Laboratória. 
-- 🌱 Estou desenvolvendo conhecimentos em JavaScript, HTML, CSS, Figma, Git, GitHub, NodeJs, Firebase, VsCode
+- 👋 Olá, aqui é Aline!
+- 👩🏽‍🎓 Uma advogada curiosa que está fazendo transição de carreira, pois foi atraída e se identificou muito com área tech.
+- 💻 Atualmente aprendendo a programar através do Bootcamp de Desenvolvimento Web pela Laboratória. 
+- 🌱 Desenvolvendo conhecimentos em JavaScript, HTML, CSS, Figma, Git, GitHub, NodeJs, Firebase, VsCode
 
 ##
 
-<div align="center" dir="auto"><br> 
-  <p>Aprendendo</p>
+<div align="center" dir="auto">
   
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
   <img src="https://skillicons.dev/icons?i=js"/>
